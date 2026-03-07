@@ -1,7 +1,14 @@
 ## Hi there !!
 
 # 💫 About Me:
-<br><br>👨‍💻 French student studying software development (BTS level)  <br>💻 Practicing programming and solving challenges on Root-Me  <br>🔐 Currently learning cybersecurity and exploring how attacks work  <br><br>🚀 Interested in:<br>- Software development<br>- Cybersecurity<br>- Learning new technologies
+
+👨‍💻 French student studying software development (BTS level)  
+💻 Practicing programming and solving challenges on Root-Me  
+🔐 Currently learning cybersecurity and exploring how attacks work  
+🚀 _Interested in:_ 
+- Software development
+- Cybersecurity
+- Learning new technologies
 
 
 ## 🌐 Socials:
